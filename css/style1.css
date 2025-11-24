@@ -25,7 +25,7 @@ nav ul{
     list-style-type: none;
 }
 
-.plane{
+.pane{
     display:flex;
     flex-direction: row;
 }
